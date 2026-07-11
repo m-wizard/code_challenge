@@ -1,3 +1,6 @@
+
+//  PORTED MANUALLY FROM PYTHON TO C.
+
 int make_moves(int* arr, int arr_count, int skip, int mover);
 
 int minMoves(int arr_count, int* arr) {
