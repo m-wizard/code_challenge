@@ -1,3 +1,6 @@
+
+//  PORTED AUTOMATICALLY FROM PYTHON TO GO VIA GOOGLE GEMINI LLM.
+
 func minMoves(arr []int32) int32 {
     var lhOnes int32 = 0
     var rhOnes int32 = 0
